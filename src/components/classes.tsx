@@ -16,7 +16,7 @@ export function Classes() {
                 </h2>
                 <p className="max-w-[900px] text-[#333333] md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
                   Explore our diverse range of sewing classes designed to cater to all skill levels and interests.
-                  Whether you're a beginner or an experienced sewer, our expert instructors will guide you through each
+                  Whether you are a beginner or an experienced sewer, our expert instructors will guide you through each
                   step, ensuring you acquire the necessary techniques and skills to bring your sewing projects to life.
                 </p>
               </div>

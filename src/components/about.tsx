@@ -120,7 +120,7 @@ export function About() {
                 </h2>
                 <p className="max-w-[600px] text-[#333333] md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
                   Our sewing studio is designed to provide a comfortable and inspiring environment for learning and
-                  creating. With state-of-the-art equipment, ample workspaces, and a well-stocked fabric library, you'll
+                  creating. With state-of-the-art equipment, ample workspaces, and a well-stocked fabric library, you will
                   have everything you need to bring your sewing projects to life.
                 </p>
               </div>

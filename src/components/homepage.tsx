@@ -49,7 +49,7 @@ export function Homepage() {
                   Elevate Your Sewing Skills
                 </h2>
                 <p className="max-w-[600px] text-[#333333] md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-                  At Sewing Classes, we're passionate about empowering individuals to unleash their creativity through
+                  At Sewing Classes, we are passionate about empowering individuals to unleash their creativity through
                   the art of sewing. Our experienced instructors guide you every step of the way, ensuring you develop
                   the skills and confidence to tackle any sewing project.
                 </p>
@@ -77,7 +77,7 @@ export function Homepage() {
                 </h2>
                 <p className="max-w-[600px] text-[#333333] md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
                   Our sewing instructor, Assela, is a passionate and dedicated professional with 30 years of experience in
-                  the fashion industry working for local fashion designers. With her wealth of knowledge and expertise, she'll guide you through every step
+                  the fashion industry working for local fashion designers. With her wealth of knowledge and expertise, she will guide you through every step
                   of your sewing journey, ensuring you develop the skills and confidence to tackle any project.
                 </p>
                 <div className="flex flex-col items-center space-y-2">
@@ -106,7 +106,7 @@ export function Homepage() {
                   Explore Our Class Schedule
                 </h2>
                 <p className="max-w-[900px] text-[#333333] md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-                  Whether you're a beginner or an experienced sewer, we have a class that's perfect for you. Check out
+                  Whether you are a beginner or an experienced sewer, we have a class that is perfect for you. Check out
                   our upcoming schedule and sign up today!
                 </p>
               </div>
